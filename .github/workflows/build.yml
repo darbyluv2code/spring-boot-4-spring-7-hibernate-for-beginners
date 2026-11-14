@@ -12,10 +12,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -39,10 +39,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -66,10 +66,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -93,10 +93,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -120,10 +120,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -147,10 +147,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -174,10 +174,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -201,10 +201,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -228,10 +228,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -255,10 +255,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
@@ -282,10 +282,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
 
-    - name: Set up JDK 26
+    - name: Set up JDK 27
       uses: actions/setup-java@v5.2.0
       with:
-        java-version: '26'
+        java-version: '27'
         distribution: 'temurin'
         cache: 'maven'
 
